@@ -1,4 +1,4 @@
-### Hi there, I'm [Frazer Pereira][website] 👋
+### Hi there, I'm Frazer Pereira 👋
 
 - 🔭 I’m currently working on a [personal project][website]!
 - 🌱 I’m currently learning Data Science and Analytics 🤣
