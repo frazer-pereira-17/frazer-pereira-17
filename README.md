@@ -53,7 +53,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-**<img align="left" alt="frazerpereira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frazerpereira17&show_icons=true&hide_border=true" />
+**<img align="left" alt="frazerpereira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frazer-pereira-17&show_icons=true&hide_border=true" />
 
 [website]: http://audhiaprilliant.github.io/
 [medium]: https://medium.com/@audhiaprilliant/
