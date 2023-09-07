@@ -33,26 +33,6 @@
 <br />
 
 ---
-
-### 📚 Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START -->
-- [Creating a Monopoly Game Board Simulation with Python: A Step-by-Step Guide](https://medium.com/geekculture/creating-a-monopoly-game-board-simulation-with-python-a-step-by-step-guide-3d8347e14085?source=rss-140ffe7d74ee------2)
-- [Matplotlib 102 — Basic Introduction to Multiplot, Subplot and Gridspec](https://medium.com/geekculture/matplotlib-102-basic-introduction-to-multiplot-subplot-and-gridspec-a3fc4025454d?source=rss-140ffe7d74ee------2)
-- [Matplotlib 101 — Basic Introduction for Python Beginner](https://medium.com/geekculture/matplotlib-101-basic-introduction-for-python-beginner-7708edb50bd7?source=rss-140ffe7d74ee------2)
-<!-- MEDIUM-STORY-LIST:END -->
-
----
-
-### 📕 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Introduction to Infographic for Preparatory Discussion Forum](https://audhiaprilliant.github.io/introduction-to-infographic/)
-- [Certified Information Privacy Manager – CIPM](https://audhiaprilliant.github.io/cipm-iapp/)
-- [Data Science Learning Studio &lpar;DSLS&rpar; 2022](https://audhiaprilliant.github.io/data-science-learning-studio-2022-facilitator/)
-- [BigID Professional Course](https://audhiaprilliant.github.io/bigid-professional-course/)
-- [Step-by-step Manual Calculation of Genetic Algorithm](https://audhiaprilliant.github.io/genetic-algorithm-calculation/)
-<!-- BLOG-POST-LIST:END -->
-
----
 **<img align="left" alt="frazerpereira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=frazer-pereira-17&show_icons=true&hide_border=true" />
 
 [website]: http://audhiaprilliant.github.io/
