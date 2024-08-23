@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Data Science and Analytics 
 - 👯 I’m looking to collaborate with other data science enthusiasts
 - 🥅 2024 Goals: Give impact to society through data analytics
-- ⚡ Fun fact: I love music, badminton, and running
+- ⚡ Fun fact: I enjoy running
